@@ -1,0 +1,16 @@
+{
+  "name": "matching-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.4.2"
+  }
+}
